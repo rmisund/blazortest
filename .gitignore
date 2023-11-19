@@ -65,6 +65,6 @@ node_modules/
 # dotenv environment variables file
 .env
 
-.release/
-.bin
-.obj
+.release
+.src/bin/
+.src/obj/
